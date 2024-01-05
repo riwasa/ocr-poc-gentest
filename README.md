@@ -1,5 +1,5 @@
-# ocr-poc-data
-Generates an Excel file containing processed data.
+# ocr-poc-gentest
+Generates an Excel file containing processed data test results.
 
 ## Requirements
 
